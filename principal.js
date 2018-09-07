@@ -10,4 +10,4 @@ function trocaBanner(){
 
 }
 
-Setintevalt('trocaBanner')
+Setintevalt(trocaBanner,2000)
